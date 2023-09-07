@@ -55,7 +55,7 @@
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
-  "C_Cpp.codeAnalysis.clangTidy.enabled": false,
+  "C_Cpp.codeAnalysis.clangTidy.enabled": true,
   "C_Cpp.configurationWarnings": "disabled",
   "doxdocgen.file.fileTemplate": "@file {name}",
   "doxdocgen.cpp.tparamTemplate": "@tparam {param} ",
